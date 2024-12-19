@@ -24,7 +24,9 @@ Python (Pandas for data manipulation)
 
 Technology:
 Python
+
 Pandas
+
 Matplotlib
 
 Results:
