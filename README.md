@@ -1,4 +1,4 @@
- 🏷️ ** Retail Sales Analysis: Trends, Products, and Customer Behavior
+ 🏷️ ** Retail Sales Analysis: Trends, Products, and Customer Behavior **
 
 📖 **Project Overview**
 
